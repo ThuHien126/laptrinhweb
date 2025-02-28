@@ -1,0 +1,2 @@
+Đây là file test_conflict.txt
+Thuộc branch: demo_test_conflict
